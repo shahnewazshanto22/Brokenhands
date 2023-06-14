@@ -237,8 +237,12 @@ a {
    transition: all linear .5s;
 }
 
-.services-item:hover {
-    margin-top: 90px;
+.services-img img {
+    transition: all linear .5s;
+}
+
+.services-item:hover .services-img img {
+    transform: scale(1.1);
 }
 
 .services-img {
