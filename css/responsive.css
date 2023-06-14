@@ -1,0 +1,822 @@
+
+/*====== X-Large devices responsive css =====*/
+@media ( min-width : 1200px ) and ( max-width : 1399.98px ) {
+	/* Services area  */
+	.services-contant h3 {
+		font-size: 40px;
+	}
+
+	.cust-head h3 {
+		font-size: 35px;
+		padding-right: 0;
+	}
+
+	/* footer area  */
+	.footer-pj-head h4 {
+		font-size: 26px;
+	}
+}
+
+/*====== Large devices responsive css =====*/
+@media ( min-width : 992px ) and ( max-width : 1199.98px ) {
+	/* Services area  */
+	.services-contant h3 {
+		font-size: 40px;
+	}
+
+	.text p {
+		font-size: 15px;
+	}
+
+	.cust-head h3 {
+		font-size: 38px;
+		padding-right: 20px;
+	}
+
+	/* footer area  */
+	.footer-pj-head h4 {
+		font-size: 26px;
+	}
+
+}
+/*====== Large devices responsive css =====*/
+@media ( min-width : 768px ) and ( max-width : 991.98px ) {
+	/* navbar area  */
+	.navbar-brand img {
+		width: 35px;
+	}
+
+	.navbar {
+		position: sticky;
+	}
+
+	.navbar-toggler {
+	border: 2px solid #e07f81;
+	font-size: 26px;
+	}
+
+	.navbar-collapse {
+		margin-top: 10px;
+		background-color: #000;
+		border-radius: 5px;
+	}
+
+	button:focus:not(:focus-visible) {
+		outline: none !important;
+	}
+
+	.login {
+	text-align: center;
+	}
+
+	.login i {
+	display: none;
+	}
+
+	.login a {
+		margin-left: 36px;
+		color: #e07f81;
+	}
+
+	.navbar-nav .nav-item {
+		padding-top: 0px;
+		padding-bottom: 0px;
+		text-align: center;
+	}
+
+	.navbar-nav .nav-item .nav-link {
+	color: #fff;
+	}
+
+	.get-started {
+		margin: 20px 100px;
+		text-align: center;
+	}
+
+	.get-started a {
+		padding: 7px 10px;
+		font-size: 13px;
+		font-weight: 600;
+	}
+
+	/* banner area  */
+	.cont-text h2 {
+		font-size: 25px;
+	}
+
+	.cont-text h1 {
+		font-size: 35px;
+		margin-top: 20px;
+		margin-bottom: 14px;
+	}
+
+	.cont-text p {
+		padding: 0 80px;
+	}
+
+	.course-text h3 {
+		font-size: 35px;
+	}
+
+	/* course area  */
+	.course-text h3 {
+		font-size: 27px;
+	}
+
+	.course-text p {
+		padding-right: 0;
+	}
+
+	.coures-img {
+		width: 330px;
+		margin-bottom: 100px;
+	}
+
+	/* Services area  */
+	#services {
+		padding-top: 30px;
+	}
+
+	.services-img {
+		padding-top: 30px;
+		padding-left: 40px;
+		padding-right: 40px;
+	}
+
+	.services-contant  {
+		margin-left: 25px;
+	}
+
+	.services-contant h3 {
+		font-size: 35px;
+	}
+
+	.services-contant p {
+		font-size: 15px;
+		padding-right: 0;
+	}
+
+	.serices-btn button {
+		padding: 10px 24px;
+	}
+
+	/* book area  */
+	.text h3 {
+		font-size: 40px;
+
+	}
+
+	.text p {
+		padding-right: 24px;
+	}
+
+	.book-btn button {
+		padding: 10px 24px;
+	}
+
+/* Customer area */
+
+	.cust-head h3 {
+		font-size: 35px;
+		text-align: center;
+		padding-right: 0;
+		margin-bottom: 50px;
+	}
+		.cust-mt {
+		margin-top: 0;
+	}
+
+	.cust-items p {
+		padding-right: 0;
+	}
+
+	/* footer area  */
+	.footer-news h4 {
+		margin-top: 45px;
+	}
+
+	#srcoll-btn {
+		width: 42px;
+		height: 42px;
+		line-height: 42px;
+	}
+
+}
+
+/*====== Small devices responsive css =====*/
+@media ( min-width : 576px ) and ( max-width : 767.98px ) {
+	
+	/*====== navbar css =====*/
+	.navbar-brand img {
+		width: 35px;
+	}
+
+	.navbar {
+		position: sticky;
+	}
+
+	.navbar-toggler {
+	border: 2px solid #e07f81;
+	font-size: 26px;
+	}
+
+	.navbar-collapse {
+		margin-top: 10px;
+		background-color: #000;
+		border-radius: 5px;
+	}
+
+	button:focus:not(:focus-visible) {
+		outline: none !important;
+	}
+
+	.login {
+	text-align: center;
+	}
+
+	.login i {
+	display: none;
+	}
+
+	.login a {
+		margin-left: 36px;
+		color: #e07f81;
+	}
+
+	.navbar-nav .nav-item {
+		padding-top: 0px;
+		padding-bottom: 0px;
+		text-align: center;
+	}
+
+	.navbar-nav .nav-item .nav-link {
+	color: #fff;
+	}
+
+	.get-started {
+		margin: 20px 100px;
+		text-align: center;
+	}
+
+	.get-started a {
+		padding: 7px 10px;
+		font-size: 13px;
+		font-weight: 600;
+	}
+	/*====== banner css =====*/
+
+	#banner {
+	padding-top: 30px;
+	padding-bottom: 50px;
+	}
+	.cont-text img {
+	width: 30px;
+	}
+
+	.cont-text h2 {
+	font-size: 24px;
+	}
+
+	.cont-text h1 {
+	font-size: 22px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	}
+
+	.cont-text p {
+	font-size: 13px;
+	padding: 0 24px;
+	}
+
+	.banner-img img {
+	bottom: -47px;
+	width: 300px;
+	}
+
+	/*====== course css =====*/
+	#course {
+	padding-top: 0px;
+	padding-bottom: 400px;
+	}
+
+	.course-text {
+	padding-top: 30px;
+	padding-left: 30px;
+	padding-bottom: 20px;
+	}
+
+	.course-text h3 {
+	font-size: 25px;
+	margin-bottom: 22px;
+	}
+
+	.course-text p {
+	font-size: 14px;
+	padding-right: 20px;
+	}
+
+	.course-text p {
+	font-size: 13px;
+	padding-right: 6px;
+	}
+
+	.coures-btn button {
+	padding: 7px 10px;
+	font-size: 14px;
+	}
+
+	.coures-btn {
+	margin-left: 70px;
+	}
+
+	.coures-img {
+		margin-bottom: -380px;
+		border-radius: 30px;
+	}
+
+	.coures-img img {
+		border-radius: 20px;
+	}
+
+	.services-item:hover {
+	display: none;
+	}
+
+
+	#services {
+	padding-top: 50px;
+	padding-bottom: 50px;
+	}
+	.services-img {
+	padding-top: 30px;
+	padding-left: 35px;
+	padding-right: 35px;
+	}
+	.services-item {
+	margin: 10px 0;
+	}
+
+	.cust-items:hover {
+
+	}
+
+	.services-contant h3 {
+	font-size: 36px;
+	line-height: 24px;
+	margin-bottom: 15px;
+	}
+
+	.services-contant p {
+	font-size: 14px;
+	line-height: 24px;
+	padding-right: 59px;
+	}
+
+	.serices-btn button {
+	padding: 7px 17px;
+	font-size: 13px;
+	}
+
+	#customer {
+	padding-top: 20px;
+	padding-bottom: 125px;
+	}
+
+	.text h3 {
+	font-size: 34px;
+	margin-bottom: 18px;
+	}
+
+	/*====== book css =====*/
+	#book {
+	padding-top: 30px;
+	padding-bottom: 40px;
+	}
+
+	.text p {
+	font-size: 15px;
+	line-height: 24px;
+	}
+
+	.book-btn button {
+	padding: 6px 15px;
+	font-size: 13px;
+	}
+
+	/*====== coustomer css =====*/
+	#customer {
+	padding-top: 20px;
+	padding-bottom: 125px;
+	}
+
+	.cust-head h3 {
+	font-size: 30px;
+	line-height: 36px;
+	padding-right: 70px;
+	}
+
+	.cust-items {
+	margin: 10px 0;
+	}
+
+	/*====== footer css =====*/
+
+	#footer {
+	padding-top: 50px;
+	padding-bottom: 20px;
+	}
+
+	.footer-pj-head h4 {
+	font-size: 24px;
+	line-height: 35px;
+	padding-right: 0px;
+	}
+
+	.footer-right-btn button {
+	padding: 7px 15px;
+	border-radius: 8px;
+	font-size: 13px;
+	margin-top: 15px;
+	margin-right: 70px;
+	}
+
+	.footer-right-btn:hover button {
+	display: none;
+	}
+
+	.footer-item img {
+	width: 38px;
+	margin-top: -19px;
+	}
+
+	.footer-item h2 {
+	font-size: 26px;
+	}
+
+	.footer-item p {
+	font-size: 13px;
+	padding-right: 20px;
+	}
+
+	.footer-news h4 {
+	font-size: 26px;
+	line-height: 26px;
+	padding-top: 23px;
+	}
+
+	.footer-news p {
+	font-size: 14px;
+	padding-top: 4px;
+	}
+
+	.copyright p {
+	font-size: 13px;
+	line-height: 20px;
+	}
+
+	.footer-icon i {
+	width: 35px;
+	height: 35px;
+	font-size: 18px;
+	line-height: 35px;
+	}
+
+	.footer-sicil-icons i {
+	width: 35px;
+	height: 35px;
+	font-size: 16px;
+	line-height: 35px;
+	margin-right: 20px;
+	}
+
+	#copyright {
+	padding-top: 15px;
+	padding-bottom: 15px;
+	}
+
+	.copyright p {
+	font-size: 12px;
+	line-height: 18px;
+	margin-bottom: 0;
+	}
+
+	#srcoll-btn {
+	right: 10px;
+	bottom: 25px;
+	width: 38px;
+	height: 38px;
+	line-height: 38px;
+	font-size: 18px;
+	}
+}
+
+/*====== X-Small devices responsive css =====*/
+@media (max-width: 575.98px) { 
+
+/*====== navbar css =====*/
+    .navbar-brand img {
+        width: 35px;
+    }
+
+    .navbar {
+        position: sticky;
+    }
+
+    .navbar-toggler {
+      border: 2px solid #e07f81;
+      font-size: 26px;
+    }
+
+    .navbar-collapse {
+        margin-top: 10px;
+        background-color: #000;
+        border-radius: 5px;
+    }
+
+    button:focus:not(:focus-visible) {
+        outline: none !important;
+    }
+
+    .login {
+       text-align: center;
+    }
+
+    .login i {
+       display: none;
+     }
+ 
+    .login a {
+        margin-left: 36px;
+        color: #e07f81;
+     }
+ 
+    .navbar-nav .nav-item {
+        padding-top: 0px;
+        padding-bottom: 0px;
+        text-align: center;
+    }
+
+    .navbar-nav .nav-item .nav-link {
+       color: #fff;
+    }
+
+    .get-started {
+        margin: 20px 100px;
+		text-align: center;
+    }
+
+    .get-started a {
+        padding: 7px 10px;
+        font-size: 13px;
+        font-weight: 600;  
+    }
+/*====== banner css =====*/
+	#banner {
+		padding-top: 30px;
+		padding-bottom: 50px;
+	}
+	.cont-text img {
+		width: 30px;
+	}
+
+	.cont-text h2 {
+		font-size: 24px;
+	}
+
+	.cont-text h1 {
+		font-size: 22px;
+		margin-top: 10px;
+		margin-bottom: 10px;
+	}
+
+	.cont-text p {
+		font-size: 13px;
+		padding: 0 24px;
+	}
+
+	.banner-img img {
+		bottom: -47px;
+		width: 300px;
+	}
+
+	/*====== course css =====*/
+	#course {
+		padding-top: 0px;
+		padding-bottom: 400px;
+	}
+
+	.course-text {
+		padding-top: 30px;
+		padding-left: 30px;
+		padding-bottom: 20px;
+	}
+
+	.course-text h3 {
+		font-size: 25px;
+		margin-bottom: 22px;
+	}
+
+	.course-text p {
+		font-size: 14px;
+		padding-right: 20px;
+	}
+
+	.course-text p {
+		font-size: 13px;
+		padding-right: 6px;
+	}
+
+	.coures-btn button {
+		padding: 7px 10px;
+		font-size: 14px;
+	}
+
+	.coures-btn {
+		margin-left: 70px;
+	}
+	#course {
+	padding-top: 0px;
+	padding-bottom: 400px;
+	}
+
+	.coures-img {
+		margin-bottom: -380px;
+		border-radius: 30px;
+	}
+
+	.coures-img img {
+		border-radius: 20px;
+	}
+
+	.services-item:hover {
+		display: none;
+	}
+
+	#services {
+		padding-top: 50px;
+		padding-bottom: 50px;
+	}
+	.services-img {
+		padding-top: 30px;
+		padding-left: 35px;
+		padding-right: 35px;
+	}
+	.services-item {
+		margin: 10px 0;
+	}
+
+	.cust-items:hover {
+	
+	}
+
+	.services-contant h3 {
+		font-size: 36px;
+		line-height: 24px;
+		margin-bottom: 15px;
+	}
+
+	.services-contant p {
+		font-size: 14px;
+		line-height: 24px;
+		padding-right: 59px;
+	}
+
+	.serices-btn button {
+		padding: 7px 17px;
+		font-size: 13px;
+	}
+
+	#customer {
+		padding-top: 20px;
+		padding-bottom: 125px;
+	}
+
+	.text h3 {
+		font-size: 34px;
+		margin-bottom: 18px;
+	}
+
+	/*====== book css =====*/
+
+	#book {
+		padding-top: 30px;
+		padding-bottom: 40px;
+	}
+
+	.text p {
+		font-size: 15px;
+		line-height: 24px;
+	}
+
+	.book-btn button {
+		padding: 6px 15px;
+		font-size: 13px;
+	}
+
+/*====== coustomer css =====*/
+	#customer {
+		padding-top: 20px;
+		padding-bottom: 125px;
+	}
+
+	.cust-head h3 {
+		font-size: 30px;
+		line-height: 36px;
+		padding-right: 70px;
+	}
+
+	.cust-items {
+		margin: 10px 0;
+	}
+
+/*====== footer css =====*/
+	#footer {
+		padding-top: 50px;
+		padding-bottom: 20px;
+	}
+
+	.footer-pj-head h4 {
+		font-size: 24px;
+		line-height: 35px;
+		padding-right: 0px;
+	}
+
+	.footer-right-btn button {
+		padding: 7px 15px;
+		border-radius: 8px;
+		font-size: 13px;
+		margin-top: 15px;
+		margin-right: 70px;
+	}
+
+	.footer-right-btn:hover button {
+		display: none;
+	}
+
+	.footer-item img {
+		width: 38px;
+		margin-top: -19px;
+	}
+
+	.footer-item h2 {
+		font-size: 26px;
+	}
+
+	.footer-item p {
+		font-size: 13px;
+		padding-right: 20px;
+	}
+
+	.footer-news h4 {
+		font-size: 26px;
+		line-height: 26px;
+		padding-top: 23px;
+	}
+
+	.footer-news p {
+		font-size: 14px;
+		padding-top: 4px;
+	}
+
+	.copyright p {
+		font-size: 13px;
+		line-height: 20px;
+	}
+
+	.footer-icon i {
+		width: 35px;
+		height: 35px;
+		font-size: 18px;
+		line-height: 35px;
+	}
+
+	.footer-sicil-icons i {
+		width: 35px;
+		height: 35px;
+		font-size: 16px;
+		line-height: 35px;
+		margin-right: 20px;
+	}
+
+	#copyright {
+		padding-top: 15px;
+		padding-bottom: 15px;
+	}
+
+	.copyright p {
+		font-size: 12px;
+		line-height: 18px;
+		margin-bottom: 0;
+	}
+
+	#srcoll-btn {
+		right: 10px;
+		bottom: 25px;
+		width: 38px;
+		height: 38px;
+		line-height: 38px;
+		font-size: 18px;
+	}
+
+}
+
